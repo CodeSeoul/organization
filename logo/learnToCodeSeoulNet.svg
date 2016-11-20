@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 399.99998 399.99998"
+   height="400"
+   width="400">
+  <title
+     id="title3356">Learn to Code Seoul Logo</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Learn to Code Seoul Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-652.36216)"
+     id="layer1">
+    <text
+       id="text3336"
+       y="712.36218"
+       x="30"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#35ca00;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="712.36218"
+         x="30"
+         id="tspan3338" /></text>
+    <text
+       id="text3340"
+       y="802.42969"
+       x="67.019981"
+       style="font-style:normal;font-weight:normal;font-size:88.16394043px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a16ab4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol;fill:#245ca4;fill-opacity:1"
+         y="802.42969"
+         x="67.019981"
+         id="tspan3342">TO</tspan></text>
+    <text
+       id="text3344"
+       y="896.71924"
+       x="63.893764"
+       style="font-style:normal;font-weight:normal;font-size:114.87224579px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol;fill:#eb2522;fill-opacity:1"
+         id="tspan3348"
+         y="896.71924"
+         x="63.893764">CODE</tspan></text>
+    <text
+       transform="scale(0.86477926,1.1563645)"
+       id="text3352"
+       y="894.26642"
+       x="1.5846077"
+       style="font-style:normal;font-weight:normal;font-size:114.81735229px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol"
+         y="894.26642"
+         x="1.5846077"
+         id="tspan3354">서울</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text4168"
+       y="53.290047"
+       x="-913.87903"
+       style="font-style:normal;font-weight:normal;font-size:73.29836273px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol;fill:#229ca1;fill-opacity:1"
+         y="53.290047"
+         x="-913.87903"
+         id="tspan4170">LEARN</tspan></text>
+  </g>
+  <g
+     id="layer2">
+    <g
+       id="g4180">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#229ca1;stroke-width:5.81695414;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3364"
+         width="98.598061"
+         height="65.546928"
+         x="255.15906"
+         y="280.08881"
+         ry="9.0879755" />
+      <rect
+         style="fill:#229ca1;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4166"
+         width="57.333599"
+         height="7.1402493"
+         x="275.79126"
+         y="347.11337" />
+      <path
+         style="fill:#229ca1;fill-opacity:1;stroke:none;stroke-width:19.99999809;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 258.22156,352.3668 94.38085,0 c 3.58257,0 5.33474,2.86513 6.46674,6.02076 l 9.53906,26.59165 c 1.132,3.15563 -2.88418,6.02076 -6.46675,6.02076 l -115.36676,0 c -3.58257,0 -7.79569,-2.93354 -6.46673,-6.02076 l 11.44686,-26.59165 c 1.32895,-3.08723 2.88416,-6.02076 6.46673,-6.02076 z"
+         id="rect3357" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:19.99999809;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 288.98564,371.68339 31.51984,0 c 1.14996,0 1.7789,0.89821 2.07573,1.93258 l 2.44954,8.53559 c 0.29684,1.03437 -0.92579,1.93259 -2.07575,1.93259 l -37.03127,0 c -1.14997,0 -2.44004,-0.91708 -2.07575,-1.93259 l 3.06192,-8.53559 c 0.36429,-1.01552 0.92577,-1.93258 2.07574,-1.93258 z"
+         id="rect3357-7" />
+    </g>
+  </g>
+</svg>
