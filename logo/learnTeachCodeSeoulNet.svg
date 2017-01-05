@@ -5,13 +5,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    viewBox="0 0 399.99998 399.99998"
    height="400"
-   width="400">
+   width="400"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="learnTeachCodeSeoulNet.svg"
+   inkscape:export-filename="D:\organization\logo\learnTeachCodeSeoul.png"
+   inkscape:export-xdpi="276.90759"
+   inkscape:export-ydpi="276.90759">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     id="namedview4259"
+     showgrid="false"
+     inkscape:zoom="1.685"
+     inkscape:cx="200"
+     inkscape:cy="200"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <title
-     id="title3356">Learn to Code Seoul Logo</title>
+     id="title3356">Learn Teach Code Seoul Logo</title>
   <defs
      id="defs4" />
   <metadata
@@ -22,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Learn to Code Seoul Logo</dc:title>
+        <dc:title>Learn Teach Code Seoul Logo</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,11 +70,12 @@
        y="802.42969"
        x="67.019981"
        style="font-style:normal;font-weight:normal;font-size:88.16394043px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a16ab4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol;fill:#245ca4;fill-opacity:1"
          y="802.42969"
          x="67.019981"
-         id="tspan3342">TO</tspan></text>
+         id="tspan3342">TEACH</tspan></text>
     <text
        id="text3344"
        y="896.71924"

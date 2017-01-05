@@ -15,12 +15,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="learnToCodeSeoulInkscape.svg"
+   sodipodi:docname="learnTeachCodeSeoulInkscape.svg"
    inkscape:export-filename="D:\Pictures\learnToCodeSeoulHuge.png"
    inkscape:export-xdpi="276.90759"
    inkscape:export-ydpi="276.90759">
   <title
-     id="title3356">Learn to Code Seoul Logo</title>
+     id="title3356">Learn Teach Code Seoul Logo</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -34,7 +34,7 @@
      inkscape:cx="191.04138"
      inkscape:cy="50.837209"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1536"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Learn to Code Seoul Logo</dc:title>
+        <dc:title>Learn Teach Code Seoul Logo</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,8 +60,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-652.36216)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-652.36216)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#35ca00;fill-opacity:0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -84,7 +83,7 @@
          id="tspan3342"
          x="67.019981"
          y="802.42969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol;fill:#245ca4;fill-opacity:1">TO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:EurostileDCDBol;-inkscape-font-specification:EurostileDCDBol;fill:#245ca4;fill-opacity:1">TEACH</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:114.87224579px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -127,7 +126,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Laptop">
+     inkscape:label="Laptop"
+     sodipodi:insensitive="true">
     <g
        id="g4180">
       <rect
